@@ -1,0 +1,24 @@
+2024-10-08 17:14:16 INFO  TC001_AccountRegistartionTest:16 - ****this TC1 is started*****
+2024-10-08 17:14:17 INFO  TC001_AccountRegistartionTest:20 - ****clicked on my Account*****
+2024-10-08 17:14:18 INFO  TC001_AccountRegistartionTest:22 - ****clicked on Register*****
+2024-10-08 17:14:19 INFO  TC001_AccountRegistartionTest:24 - ****entered customer details*****
+2024-10-08 17:14:22 INFO  TC001_AccountRegistartionTest:38 - ****validated successful customer creation message*****
+2024-10-08 17:14:27 INFO  TC002_LoginTestcase:15 - ****TC002 EXCETUCTION STARTED***********
+2024-10-08 17:14:27 INFO  TC002_LoginTestcase:19 - ****CLICKED ONMYACCOUNT***********
+2024-10-08 17:14:28 INFO  TC002_LoginTestcase:21 - ****clicked on mylogin***********
+2024-10-08 17:14:29 INFO  TC002_LoginTestcase:23 - ****email entered***********
+2024-10-08 17:14:30 INFO  TC002_LoginTestcase:25 - ****password entered***********
+2024-10-08 17:14:30 INFO  TC002_LoginTestcase:27 - ****login button clicked***********
+2024-10-08 17:14:31 INFO  TC002_LoginTestcase:29 - ****verifying my account heading***********
+2024-10-08 17:22:36 INFO  TC001_AccountRegistartionTest:16 - ****this TC1 is started*****
+2024-10-08 17:22:36 INFO  TC001_AccountRegistartionTest:20 - ****clicked on my Account*****
+2024-10-08 17:22:37 INFO  TC001_AccountRegistartionTest:22 - ****clicked on Register*****
+2024-10-08 17:22:38 INFO  TC001_AccountRegistartionTest:24 - ****entered customer details*****
+2024-10-08 17:22:40 INFO  TC001_AccountRegistartionTest:38 - ****validated successful customer creation message*****
+2024-10-08 17:22:45 INFO  TC002_LoginTestcase:15 - ****TC002 EXCETUCTION STARTED***********
+2024-10-08 17:22:45 INFO  TC002_LoginTestcase:19 - ****CLICKED ONMYACCOUNT***********
+2024-10-08 17:22:45 INFO  TC002_LoginTestcase:21 - ****clicked on mylogin***********
+2024-10-08 17:22:46 INFO  TC002_LoginTestcase:23 - ****email entered***********
+2024-10-08 17:22:46 INFO  TC002_LoginTestcase:25 - ****password entered***********
+2024-10-08 17:22:47 INFO  TC002_LoginTestcase:27 - ****login button clicked***********
+2024-10-08 17:22:47 INFO  TC002_LoginTestcase:29 - ****verifying my account heading***********
